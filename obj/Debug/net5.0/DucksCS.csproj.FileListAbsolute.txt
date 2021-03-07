@@ -1,0 +1,16 @@
+C:\Users\iscrq\Desktop\DucksCS\bin\Debug\net5.0\DucksCS.exe
+C:\Users\iscrq\Desktop\DucksCS\bin\Debug\net5.0\DucksCS.deps.json
+C:\Users\iscrq\Desktop\DucksCS\bin\Debug\net5.0\DucksCS.runtimeconfig.json
+C:\Users\iscrq\Desktop\DucksCS\bin\Debug\net5.0\DucksCS.runtimeconfig.dev.json
+C:\Users\iscrq\Desktop\DucksCS\bin\Debug\net5.0\DucksCS.dll
+C:\Users\iscrq\Desktop\DucksCS\bin\Debug\net5.0\ref\DucksCS.dll
+C:\Users\iscrq\Desktop\DucksCS\bin\Debug\net5.0\DucksCS.pdb
+C:\Users\iscrq\Desktop\DucksCS\obj\Debug\net5.0\DucksCS.csprojAssemblyReference.cache
+C:\Users\iscrq\Desktop\DucksCS\obj\Debug\net5.0\DucksCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iscrq\Desktop\DucksCS\obj\Debug\net5.0\DucksCS.AssemblyInfoInputs.cache
+C:\Users\iscrq\Desktop\DucksCS\obj\Debug\net5.0\DucksCS.AssemblyInfo.cs
+C:\Users\iscrq\Desktop\DucksCS\obj\Debug\net5.0\DucksCS.csproj.CoreCompileInputs.cache
+C:\Users\iscrq\Desktop\DucksCS\obj\Debug\net5.0\DucksCS.dll
+C:\Users\iscrq\Desktop\DucksCS\obj\Debug\net5.0\ref\DucksCS.dll
+C:\Users\iscrq\Desktop\DucksCS\obj\Debug\net5.0\DucksCS.pdb
+C:\Users\iscrq\Desktop\DucksCS\obj\Debug\net5.0\DucksCS.genruntimeconfig.cache
